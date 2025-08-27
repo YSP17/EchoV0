@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/yeshwantprem20-1105s-projects/v0-vercel-ai-chat](https://vercel.com/yeshwantprem20-1105s-projects/v0-vercel-ai-chat)**
+april fools
 
 ## Build your app
 
